@@ -2,10 +2,10 @@
 Portfolio of my work and projects for [CEP146]
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Name: [Keyun Fu]
+- Major: [Computer Programming Analysis]
+- Year: [1]
+- Favorite Programming Language: [C#]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
